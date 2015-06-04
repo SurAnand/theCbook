@@ -1,4 +1,5 @@
 # Preface
+
 ## About This Book
 
 This book was written with two groups of readers in mind. Whether you
@@ -109,4 +110,4 @@ X3 Secretariat,
 
 *Mark Doran*
 
-######January 1991
+January 1991
